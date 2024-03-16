@@ -3,3 +3,4 @@ requests
 beautifulsoup4
 selenium
 PyPDF2
+webdriver_manager
